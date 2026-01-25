@@ -2,8 +2,6 @@
 
 Detect fraudulent job postings using a machine learning model trained on job metadata and textual features. This project uses **LightGBM**, **TF-IDF**, and a **Streamlit** frontend for real-time prediction.
 
-You can check out the live project here:  
-[Streamlit App – Fake Job Post Detection](https://fake-job-post-detection.streamlit.app/)
 
 ---
 
