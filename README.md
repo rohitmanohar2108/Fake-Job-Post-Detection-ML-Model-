@@ -13,6 +13,7 @@ Detect fraudulent job postings using a machine learning model trained on job met
 - Trained LightGBM model with hyperparameter tuning
 - Streamlit UI for live job fraud prediction
 - Decile analysis and KS-statistics based evaluation
+- Class imbalance handling with threshold optimization
   
 ---
 
